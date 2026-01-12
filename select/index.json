@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君のタトゥー",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-01-12T13:17:17.813084Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君のタトゥー",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_君のタトゥー_コレサワ.txt"
+    }
+  ]
+}
